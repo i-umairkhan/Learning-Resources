@@ -6,3 +6,5 @@ https://attachments.convertkitcdnn2.com/775726/50ae954d-c3b1-4725-8715-9098be267
 HTML = W3 Schools
 
 CSS = web dev simplyfied
+
+JavaScript
