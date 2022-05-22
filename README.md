@@ -7,4 +7,4 @@ HTML = W3 Schools
 
 CSS = web dev simplyfied
 
-JavaScript = 
+JavaScript = Code With Harry
